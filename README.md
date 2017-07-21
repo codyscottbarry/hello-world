@@ -1,2 +1,2 @@
 # hello-world
-My hello to all or hi. Whatsgoingon! :)
+Howdy everyone. This is Cody Barry. I am a robot.
